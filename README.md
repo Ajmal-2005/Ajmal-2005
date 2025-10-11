@@ -9,7 +9,7 @@
   <a href="https://share.streamlit.io/user/ajmal-2005" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   </a>
-  <a href="[mailto:rahmanaj2005@gmail.com](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKhHQkztSXpZJRBgSDmKkHHXr?compose=VpCqJXKbVXdzwsnGcHJLSfRBHWDSKRmxxZKjQzzXBcSsfFVnXcqpBwnWPtjJffsjhvMFTKL)">
+  <a href="(https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKhHQkztSXpZJRBgSDmKkHHXr?compose=VpCqJXKbVXdzwsnGcHJLSfRBHWDSKRmxxZKjQzzXBcSsfFVnXcqpBwnWPtjJffsjhvMFTKL)">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://discord.com/users/980667326238167060">
