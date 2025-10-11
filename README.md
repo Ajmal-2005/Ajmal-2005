@@ -9,9 +9,7 @@
   <a href="https://share.streamlit.io/user/ajmal-2005" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   </a>
-  <a href="(https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKhHQkztSXpZJRBgSDmKkHHXr?compose=VpCqJXKbVXdzwsnGcHJLSfRBHWDSKRmxxZKjQzzXBcSsfFVnXcqpBwnWPtjJffsjhvMFTKL)">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-rahmanaj2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   <a href="https://discord.com/users/980667326238167060">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
