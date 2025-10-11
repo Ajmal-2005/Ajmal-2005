@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-
 # Hi there, I'm Ajmal Rahman 👋
 
 ### An AI & Data Science student passionate about building intelligent applications.
