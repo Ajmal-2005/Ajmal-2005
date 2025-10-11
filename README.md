@@ -9,6 +9,15 @@
   <a href="https://share.streamlit.io/user/ajmal-2005" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   </a>
+  <a href="mailto:rahmanaj2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/980667326238167060">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.reddit.com/user/Different-Fish845/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
 </p>
 
 ---
@@ -22,7 +31,7 @@ I'm an **Artificial Intelligence and Data Science student** at SIMATS Engineerin
 ### 🔭 I’m Currently Learning:
 
 - 🧠 Diving deep into **Deep Learning** with **PyTorch**.
-- 💬 Exploring the world of **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.
+- 💬 Exploring **Generative AI**, including **NLP**, **Large Language Models (LLMs)**, and building **RAG-powered chatbots**.
 - 🐳 Mastering **Docker** for containerizing and deploying applications seamlessly.
 
 ---
@@ -82,9 +91,13 @@ I'm an **Artificial Intelligence and Data Science student** at SIMATS Engineerin
 
 <p align="center">
   <a href="https://github.com/ajmal-2005">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmal-2005&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ajmal's GitHub Stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-2005&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmal-2005&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Ajmal's GitHub Stats"/>
+    <br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmal-2005&theme=dracula&hide_border=true" alt="Ajmal's GitHub Streak"/>
   </a>
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-2005&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
