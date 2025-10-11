@@ -24,7 +24,7 @@
 
 ### 💫 About Me:
 
-I'm an **Artificial Intelligence and Data Science student** at SIMATS Engineering and a self-taught developer from **Azhikode, Kerala, India**. My passion lies at the intersection of machine learning and web development, where I focus on transforming complex data into intuitive, end-to-end applications. My ultimate goal is to bridge the gap between powerful algorithms and real-world users by creating solutions that are not only accurate but also accessible to everyone.
+I'm an **Artificial Intelligence and Data Science student** at SIMATS Engineering and a self-taught developer from **Palakkad, Kerala, India**. My passion lies at the intersection of machine learning and web development, where I focus on transforming complex data into intuitive, end-to-end applications. My ultimate goal is to bridge the gap between powerful algorithms and real-world users by creating solutions that are not only accurate but also accessible to everyone.
 
 ---
 
