@@ -165,7 +165,7 @@ SIMATS Engineering, Chennai
 - 🏅 Oracle Certified SQL Specialist
 - 🏅 Oracle Certified Professional – Java SE 11 Developer
 - 🏅 Cisco PCAP Python Certification
-- 🏅 NPTEL – Ethical Hacking (SWAYAM)
+- 🏅 NPTEL – Ethical Hacking, Introduction to Internet of Things , Affective Computing (SWAYAM)
 
 ---
 
