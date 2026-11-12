@@ -6,15 +6,18 @@ I'm a final-year **B.Tech Artificial Intelligence and Data Science student at SI
 
 My work involves developing ML applications, processing real-world datasets, integrating APIs, and exploring LLM-powered applications. I enjoy understanding how things work behind the scenes and turning technical concepts into functional projects.
 
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ajmalrahmana">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Ajmal-2005">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="mailto:rahmanaj2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
