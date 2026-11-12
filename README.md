@@ -173,7 +173,7 @@ SIMATS Engineering, Chennai
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajmal-2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmal-2005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+ 
 </p>
 
 
