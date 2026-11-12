@@ -35,12 +35,9 @@ Currently exploring the intersection of **Artificial Intelligence, Software Engi
 
 ## 🏆 Achievements & Career Milestones
 
-- 🎯 **TCS Campus Placement:** Selected by Tata Consultancy Services with an offer of 3.5 LPA.
-- 💼 **Cognizant GenC:** Successfully cleared the Cognizant GenC selection process.
 - 🏢 **Industry Experience:** Completed internships at Makjuz Technologies and NetworkGeek.
 - 🌍 **Healthcare Data Operations:** Currently gaining industry experience through internship work at Roche.
 - 📜 **Oracle Certified:** SQL Specialist and Java SE 11 Developer.
-- 🏅 **NPTEL Certification:** Completed Ethical Hacking through SWAYAM.
 
 ---
 
